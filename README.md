@@ -1,10 +1,12 @@
 # UIT Data Science Challenge
 ## Name
 Multimodal Sacarsm Detection on Vietnamese Social Media Texts
+## Dataset
+
 ## Description
-Using
-Data:
-- 
+- Using EasyOCR to recognize characters in images.
+- Applying two models in deep learning: PhoBERT (processing Vietnamese language from text in JSON files and text from images) and ResNet (image recognition and classification).
+- Results: 4 classifications (multi-sarcasm, image-sarcasm, text-sarcasm and non-sarcasm).
 ## Contributing
 <table>
     <tr>
